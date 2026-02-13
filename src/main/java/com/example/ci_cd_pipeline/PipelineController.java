@@ -9,6 +9,6 @@ public class PipelineController {
     @GetMapping("ci-cd")
     public String data()
     {
-        return "Cicd pipe_line building";
+        return "Cicd pipe_line building ..... done";
     }
 }
